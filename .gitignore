@@ -4,3 +4,10 @@
 .httr-oauth
 .DS_Store
 .quarto
+
+## Shiny stuff
+
+/secrets
+app/secrets
+**gmail.com
+app/rsconnect/
