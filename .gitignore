@@ -4,10 +4,9 @@
 .httr-oauth
 .DS_Store
 .quarto
-
 ## Shiny stuff
-
 /secrets
 micah-track/secrets
 **gmail.com
 app/rsconnect/
+secrets

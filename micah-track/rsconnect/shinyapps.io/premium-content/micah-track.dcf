@@ -1,0 +1,10 @@
+name: micah-track
+title:
+username: premium-content
+account: premium-content
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11205858
+bundleId: 8247799
+url: https://premium-content.shinyapps.io/micah-track/
+version: 1
